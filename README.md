@@ -1,11 +1,6 @@
 # Data-Science
 A collection of academic and self-learning projects in Data Science, Machine Learning and Deep Learning.
-📊 Data Science
-📌 Description (Short)
 
-This repository focuses on Data Science fundamentals, including data preprocessing, analysis, visualization, and basic machine learning using Python.
-
-📖 README
 🔹 What this repository includes:
 
 Python for Data Science
